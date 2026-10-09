@@ -1,0 +1,11 @@
+langchain
+langgraph
+docling
+chromadb
+rank_bm25
+gradio
+sentence-transformers
+pydantic
+openai
+langchain-openai
+langchain-community
